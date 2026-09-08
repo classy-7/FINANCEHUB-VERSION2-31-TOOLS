@@ -1,0 +1,17 @@
+{
+  "name": "FinanceHub — All-in-One Financial Calculators",
+  "short_name": "FinanceHub",
+  "description": "10 interactive financial planning calculators with real-time updates and charts.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0f766e",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "48x48 72x72 96x96 128x128 256x256",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

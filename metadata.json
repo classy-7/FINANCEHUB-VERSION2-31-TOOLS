@@ -1,0 +1,6 @@
+{
+  "name": "FinanceHub",
+  "description": "All-in-One Financial Calculators Web App featuring 31 interactive calculators, mortgage refinance, 401(k) match, rental property ROI, Roth vs Traditional, HSA, Social Security, 2026 tax estimates, and AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

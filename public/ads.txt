@@ -1,0 +1,3 @@
+# ads.txt for FinanceHub
+# Replace with approved publisher ID upon AdSense / Google Ad Manager approval
+google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
