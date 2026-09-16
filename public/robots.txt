@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://financehub.local/sitemap.xml
+Sitemap: https://financehubtools.netlify.app/sitemap.xml
